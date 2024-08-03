@@ -99,7 +99,7 @@ export default function Home() {
       {
         connections: [
           {
-            channel_id: "1269126941278212148",
+            channel_id: "1269250241790742659",
           },
         ],
       }
